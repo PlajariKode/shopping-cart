@@ -43,7 +43,7 @@ if (!isset($_GET['id_order'])) {
         <td align="center"><?= $detail['pembelian']; ?></td>
       </tr>
 
-    <?php	endwhile; ?>
+    <?php endwhile; ?>
 
     </tbody>
   </table>
